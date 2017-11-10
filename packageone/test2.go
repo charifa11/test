@@ -2,6 +2,6 @@ package packageone
 
 import "fmt"
 
-func testingfunction(){
+func Testingfunction(){
 	fmt.Println("inside package one test 2")
 }
