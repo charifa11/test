@@ -7,8 +7,7 @@ import("log"
 "net/http"
 "io"
 "strconv"
-"NewMessage"
-       "NewReader")
+)
 
 func TextSocketCollector(name string, out chan streamer.Message) {
     listener, _ := net.Listen("tcp", ":9999")
