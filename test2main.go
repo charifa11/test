@@ -1,6 +1,7 @@
 package main 
 
-import ("fmt"
+import (
+	//"fmt"
 "github.com/charifa11/test/packageone"
 )
 
